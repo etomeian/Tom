@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head
+<meta charset+ "UTF-8">
+<title> PROFILE </title>
+</head>
+
+<body style = "background-color:LightBlue;">
+<center>
+<body><img src="me.jpeg" width="230">
+</center>
+
+
+<h2>Personal Information </h2>
+<hr>
+<style>
+p {
+  font-size: 16px;
+}
+
+</style>
+<table>
+<tr>
+<td>
+<p><b> Nickname: Tom </p></b>
+<p><b>Gender: Male </p></b>
+<p><b> Status: Single  </p></b>
+<p><b> Location: Caloocan  </p></b>
+<p><b> School: National Univ.  </p></b>
+
+
+<hr>
+<h3> Qoute </h3>
+<p>" Never Regret a day in your life. Good days give you happines & bad days give you experience" </p>
+
